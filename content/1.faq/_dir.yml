@@ -1,0 +1,6 @@
+title: FAQ
+icon: 📖
+navigation.redirect: /faq/questions
+navBadges:
+  - value: Nouveau
+    type: lime

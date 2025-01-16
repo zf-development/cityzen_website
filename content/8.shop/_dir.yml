@@ -1,0 +1,6 @@
+title: Boutique
+icon: 🏅
+navigation.redirect: /shop/boutique
+navBadges:
+  - value: Nouveau
+    type: lime
