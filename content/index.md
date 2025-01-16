@@ -29,7 +29,7 @@ Le Roleplay au Naturel
 Venez découvrir San Andreas sous un nouveau jour, démarrez une entreprise, :br fondez une organisation criminelle ou nettoyez la ville des voyoux!
 ::
 
-::alert{to="/changelogs/last" target="_blank" type="secondary" icon="lucide:lightbulb"}
+::alert{to="/changelogs/last" type="secondary" icon="lucide:lightbulb"}
   La version **2.12** de CityZen est présentement disponible! N'oubliez de consulter les changements.
 ::
 
